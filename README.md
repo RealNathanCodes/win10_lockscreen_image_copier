@@ -23,7 +23,7 @@ I know that keeping the enitre rejected image instead of just a filename, or a h
 dotnet build
 ```
 
-# Runnint Instructions
+# Running Instructions
 First build the utility, then place the compiled dll where you want it and run it with 
 ```
 dotnet path\to\the\dll\filename.dll
