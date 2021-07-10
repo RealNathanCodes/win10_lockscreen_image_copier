@@ -19,13 +19,13 @@ From there, whenever I wanted, I would pick my favorites from the proposed and m
 I know that keeping the enitre rejected image instead of just a filename, or a hash of the image wastes space, but there weren't that many and they weren't that big so I didn't feel the need to optimize further.
 
 # Build Instructions
-'''
+```
 dotnet build
-'''
+```
 
 # Runnint Instructions
 First build the utility, then place the compiled dll where you want it and run it with 
-'''
+```
 dotnet path\to\the\dll\filename.dll
-'''
+```
  
